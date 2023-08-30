@@ -9,16 +9,16 @@ console.log(otherRandomCar)
 //          // Mercedes
 
 
-// // problem 2
-// const employee = {
-//     name: 'Elon',
-//     age: 47,
-//     company: 'Tesla'
-// }
-// const { name: otherName } = employee;
-// //Predict the output
-// console.log(name);
-// console.log(otherName);
+// problem 2
+const employee = {
+    name: 'Elon',
+    age: 47,
+    company: 'Tesla'
+}
+const { name: otherName } = employee;
+//Predict the output
+console.log(name);
+console.log(otherName);
 // // name not defined
 
 // // problem 3
